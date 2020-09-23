@@ -21,13 +21,10 @@ Pàgina 2 de 4
 3) Per a la construcció dels dos formularis de la primera i cinquena secció (són iguals) has d’utilitzar i personalitzar els models de formulari de Bootstrap que pots trobar en aquesta secció de la documentació del framework: https://getbootstrap.com/docs/4.5/components/forms/.
 4) Es valorarà positivament la utilització de les utilitats de validació de formularis. Trobaràs la manera de fer-ho en l’exemple de les carpetes “checkout” (validació). Aquest exemple el pots descarregar en la següent adreça: https://getbootstrap.com/docs/4.5/examples/
 5) Per a la creació dels continguts de la cinquena secció de la pàgina, has d’adaptar “l’acordió de Bootsrap” que trobes en aquesta adreça: https://getbootstrap.com/docs/4.5/components/collapse/#accordion-example No és imprescindible que el resultat visual sigui el que mostra la pàgina de Netflix, però sí és important que l’acordió sigui funcional.
+
 Sobre el CSS es valorarà:
 1) Que els elements de la pàgina es disposin seguint la quadrícula de la pàgina. Observa que totes les seccions ocupen el 100% de l’amplada del dispositiu, si bé els únics continguts que es mostren ocupant el 100% de l’amplada del dispositiu són els situats en la part superior de la primera secció (“.container-fluid”); la resta de continguts ocupen una amplada menor (“.container).
 2) Que la pàgina s’adapti als diversos dispositius.
 3) Que els colors i tipus de lletra utilitzats respongui a una semblança raonable amb el model.
 4) Es valorarà positivament la utilització de l’efecte de “floating labels” dels placeholders. Trobaràs la manera de fer-ho en l’exemple de la carpeta “floating-labels” (efecte de placeholder que es converteix en etiqueta). Aquest exemple el pots descarregar en la següent adreça: https://getbootstrap.com/docs/4.5/examples/
-En les pàgines següents es mostra l’aspecte de les pàgines, tal com es mostren en el moment de redactar aquest enunciat:
-Curs de Confecció i publicació de pàgines web / 160119/009
-Pàgina 3 de 4
-Curs de Confecció i publicació de pàgines web / 160119/009
-Pàgina 4 de 4
+
