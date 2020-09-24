@@ -1,7 +1,3 @@
-Curs de Confecció i publicació de pàgines web / 160119/009
-
-Elaboració de plantilles i formularis
-Activitat: Bootstrap (Components, utilitats i personalització).
 Descripció de l'activitat
 Utilitzant el framework CSS Bootstrap has de reproduir amb la màxima fidelitat possible la pàgina d’inici de Netflix (https://www.netflix.com/es/).
 Resolució de dubtes
