@@ -9,5 +9,5 @@ CSS:
 1) That the elements of the page are arranged following the grid of the page. Note that all sections occupy 100% of the width of the device, although the only contents shown occupying 100% of the width of the device are those located at the top of the first section (“.container- fluid ”); the rest of the contents occupy a smaller width (.container).
 2) That the page adapts to the various devices.
 3) That the colors and fonts used correspond to a reasonable resemblance to the model.
-4) The use of the “floating labels” effect of placeholders will be positively assessed. You'll find how to do this in the example of the "floating-labels" folder (placeholder effect that becomes a label). You can download this example at the following address: https://getbootstrap.com/docs/4.5/examples/
+4) The use of the “floating labels” effect of placeholders will be positively assessed. 
 
